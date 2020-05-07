@@ -1,0 +1,25 @@
+Fortran: 
+	Maricela 
+	Alex
+	Cosme
+	Frandy
+Assemblers :
+	John
+	Dileny
+	Monse
+	Bryan
+LISP:
+	Marco
+	Daniel
+	Steven
+Pascal:
+	Carlos
+	Alejandro
+    Pedro
+Cobol:
+	Alexandra
+	Hilary
+	Ronald
+	Allan
+    
+
